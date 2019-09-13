@@ -27,6 +27,10 @@ body {
 .transform(translateZ(0)); // prevent flashing
 }
 
+.feck {
+    Margin-left= 43px;
+}
+
 .periodic {
     position: relative;
     height: 200px;
